@@ -13,7 +13,7 @@ export const Bio = {
 
 export const skills = [
   {
-    title: "Frontend", 
+    title: "Frontend",
     skills: [
       {
         name: "React Js",
@@ -97,6 +97,11 @@ export const skills = [
         name: "Netlify",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+      },
+      {
+        name: "Vercel",
+        image:
+          "https://i.pinimg.com/474x/70/3b/cd/703bcdcc38bea50d1bbaa4adbc7f279c.jpg",
       },
       {
         name: "VS Code",
