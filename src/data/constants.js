@@ -7,9 +7,8 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1UTAmW1XUQdFHjguc5BlZVLyJ-1D4Zwah/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/harikaran-subramanian-profile/",
-  email:"harikaran7242@gmail.com",
-  twitter: "https://twitter.com/RishavChanda",
- 
+  email: "harikaran7242@gmail.com",
+  twitter: "https://twitter.com/harikaran7242",
 };
 
 export const skills = [
