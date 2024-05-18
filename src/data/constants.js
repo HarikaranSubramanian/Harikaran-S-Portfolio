@@ -5,7 +5,7 @@ export const Bio = {
     "Hi there, I'm Harikaran - a full stack web developer (MERN stack). I develop beautiful and user-friendly websites. I like what I’m currently doing (Web Development!…) and very much interested in it. Challenging myself to learn new things and expanding my skillset - my driving force. Talking about my personality, I describe myself as a result-oriented person; great team player yet competent solo worker and an efficient individual. You can image me as a diligent and easygoing person with a good sense of humour.",
   github: "https://github.com/HarikaranSubramanian",
   resume:
-    "https://drive.google.com/file/d/1UTAmW1XUQdFHjguc5BlZVLyJ-1D4Zwah/view?usp=drive_link",
+    "https://drive.google.com/file/d/101Ht678PRdtq2FmM1D1GzXnBky3o33Un/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harikaran-subramanian-profile/",
   email: "harikaran7242@gmail.com",
   twitter: "https://twitter.com/harikaran7242",
