@@ -124,7 +124,7 @@ export const experiences = [
     img: "https://i.pinimg.com/474x/ad/78/5a/ad785a9fb1587a496092b3d2f4e912b8.jpg",
     role: "Catalog Specialist",
     company: "Amazon Development Centre (India)PVT LTD",
-    date: "Aug 2022 - Dec 2022",
+    date: "Aug 2022 - Present",
     desc: "As an Catalog Specialist at Amazon Development Centre (India)PVT LTD from August 2022 to December 2022, I gained valuable hands-on experience in handling Queries . Dedicated to maintaining high delivery standards, optimizing processes, and collaborating cross-functionally for efficient problem resolution. Skilled in quality management, effective communication, and data analysis. My expertise lies in ensuring top-tier service in the last mile of the delivery process.",
     skills: ["salesforce tool", "Geolocation", "Amazon tools"],
     doc: "https://drive.google.com/file/d/1NasGR8nuhxTytKyRLDVH93gRQHm1DhXx/view?usp=drive_link",
