@@ -116,7 +116,7 @@ function Footer() {
             <TwitterIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Harikaran . All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Harikaran . All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

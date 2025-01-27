@@ -5,7 +5,7 @@ export const Bio = {
     "Hi there, I'm Harikaran - a full stack web developer (MERN stack). I develop beautiful and user-friendly websites. I like what I’m currently doing (Web Development!…) and very much interested in it. Challenging myself to learn new things and expanding my skillset - my driving force. Talking about my personality, I describe myself as a result-oriented person; great team player yet competent solo worker and an efficient individual. You can image me as a diligent and easygoing person with a good sense of humour.",
   github: "https://github.com/HarikaranSubramanian",
   resume:
-    "https://drive.google.com/file/d/101Ht678PRdtq2FmM1D1GzXnBky3o33Un/view?usp=sharing",
+    "https://drive.google.com/file/d/1p5UIVaxYGwMbfYSA33bVsBDnQqoZLu4X/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harikaran-subramanian-profile/",
   email: "harikaran7242@gmail.com",
   twitter: "https://twitter.com/harikaran7242",
@@ -118,16 +118,25 @@ export const skills = [
 ];
 
 export const experiences = [
- 
   {
     id: 0,
     img: "https://i.pinimg.com/474x/ad/78/5a/ad785a9fb1587a496092b3d2f4e912b8.jpg",
     role: "Catalog Specialist",
     company: "Amazon Development Centre (India)PVT LTD",
-    date: "Aug 2022 - Present",
-    desc: "As an Catalog Specialist at Amazon Development Centre (India)PVT LTD from August 2022 to December 2022, I gained valuable hands-on experience in handling Queries . Dedicated to maintaining high delivery standards, optimizing processes, and collaborating cross-functionally for efficient problem resolution. Skilled in quality management, effective communication, and data analysis. My expertise lies in ensuring top-tier service in the last mile of the delivery process.",
+    date: "Aug 2022 - Jan 2023",
+    desc: "As an Catalog Specialist at Amazon Development Centre (India)PVT LTD from August 2022 to jan 2023, I gained valuable hands-on experience in handling Queries . Dedicated to maintaining high delivery standards, optimizing processes, and collaborating cross-functionally for efficient problem resolution. Skilled in quality management, effective communication, and data analysis. My expertise lies in ensuring top-tier service in the last mile of the delivery process.",
     skills: ["salesforce tool", "Geolocation", "Amazon tools"],
     doc: "https://drive.google.com/file/d/1NasGR8nuhxTytKyRLDVH93gRQHm1DhXx/view?usp=drive_link",
+  },
+
+  {
+    id: 0,
+    img: "https://i.pinimg.com/474x/ad/78/5a/ad785a9fb1587a496092b3d2f4e912b8.jpg",
+    role: "Catalog Specialist",
+    company: "Amazon Development Centre (India)PVT LTD",
+    date: "May 2024 - Present",
+    desc: "As an Catalog Specialist at Amazon Development Centre (India)PVT LTD, I gained valuable hands-on experience in handling Queries . Dedicated to maintaining high delivery standards, optimizing processes, and collaborating cross-functionally for efficient problem resolution. Skilled in quality management, effective communication, and data analysis. My expertise lies in ensuring top-tier service in the last mile of the delivery process.",
+    skills: ["salesforce tool", "Geolocation", "Amazon tools"],
   },
 ];
 
@@ -141,8 +150,16 @@ export const education = [
     degree:
       "Bachelor of Engineering - BE, Electronics and Communication Engineering",
   },
-  
+  {
+    id: 0,
+    img: "https://www.guvi.in/images/new-guvi-logo.png",
+    school: "Guvi Geek Networks ,Chennai ",
+    date: "Dec 2023 - May 2024 ",
+    grade: "89%",
+    degree: "Completed a Certification Course in MERN stack",
+  },
 ];
+
 
 export const projects = [
   {
